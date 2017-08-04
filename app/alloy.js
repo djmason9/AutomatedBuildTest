@@ -1,4 +1,6 @@
-
+/***
+ * The main function
+ */
 (function(){
 
 })();
