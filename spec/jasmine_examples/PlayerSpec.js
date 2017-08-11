@@ -12,6 +12,6 @@ describe("A suite", function() {
   it("and so is a spec 3", function() {
     a = true;
 
-    expect(a).toBe(false);
+    expect(a).toBe(true);
   });
 });
