@@ -3,9 +3,15 @@ describe("A suite", function() {
     expect(true).toBe(true);
   });
   
-  it("and so is a spec", function() {
+  it("and so is a spec 2", function() {
     a = true;
 
     expect(a).toBe(true);
+  });
+  
+  it("and so is a spec 3", function() {
+    a = true;
+
+    expect(a).toBe(false);
   });
 });
