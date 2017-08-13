@@ -3,6 +3,6 @@
  */
  
 (function(){
-// main stuff 
+// main stuff
 })();
 
