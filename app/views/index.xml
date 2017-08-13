@@ -1,6 +1,6 @@
 <Alloy>
 	<Window class="container" layout="Vertical">
-		<Label id="label" onClick="doClick">Hello, World1</Label>
+		<Label id="label" onClick="doClick" top="50">Hello, World1</Label>
 		<Label id="label" onClick="doClick">Hello, World2</Label>
 	</Window>
 </Alloy>
