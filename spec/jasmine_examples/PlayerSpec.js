@@ -14,4 +14,10 @@ describe("A suite", function() {
 
     expect(a).toBe(true);
   });
+  
+  it("and so is a spec 4", function() {
+    a = true;
+
+    expect(a).toBe(true);
+  });
 });
