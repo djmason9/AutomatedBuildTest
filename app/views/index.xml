@@ -1,5 +1,5 @@
 <Alloy>
 	<Window class="container" layout="Vertical">
-		<Label id="label" top="50">Hello welcome to the automated build app.</Label>
+		<Label id="label" top="50">Hello welcome to the automated build app.</Label> 
 	</Window>
 </Alloy>
